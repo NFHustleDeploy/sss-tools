@@ -45,13 +45,13 @@ const Footer = () => {
                 </div>
             </div>
 
-            <div className="text-center text-white pb-2">
-                Try on
-                <a target="_blank" rel="noreferrer" className="text-white" href="https://solanatools-devnet.vercel.app/"> <strong className="underline">Devnet</strong></a>
+            <div className="text-center text-black pb-2">
+                Built by
+                <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/NFHustle/"> <strong className="underline">@NFHustle</strong></a>
             </div>
             <div className="text-center text-white text-sm pb-2">
-                Made by
-                <a target="_blank" rel="noreferrer" className="text-white" href="https://twitter.com/laloutre"> <strong>@laloutre</strong></a>
+                Powered by
+                <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/SecretSpaceSoc1/"> <strong>Secret Space Society</strong></a>
             </div>
             <PIPButtonCustom />
         </footer>
