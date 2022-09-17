@@ -1,7 +1,3 @@
-import { PIPButton } from "@getpip/react-pip-button"
-
-import { PIPButtonCustom } from "./PIPButtonCustom";
-
 const Footer = () => {
 
     return (
