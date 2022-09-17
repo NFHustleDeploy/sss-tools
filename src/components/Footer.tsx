@@ -49,7 +49,6 @@ const Footer = () => {
                 Powered by
                 <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/SecretSpaceSoc1/"> <strong>Secret Space Society</strong></a>
             </div>
-            <PIPButtonCustom />
         </footer>
     );
 }
