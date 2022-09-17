@@ -41,13 +41,13 @@ const Footer = () => {
                 </div>
             </div>
 
-            <div className="text-center text-black pb-2">
+            <div className="text-center text-yellow pb-2">
                 Built by
-                <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/NFHustle/"> <strong className="underline">@NFHustle</strong></a>
+                <a target="_blank" rel="noreferrer" className="text-yellow" href="https://twitter.com/NFHustle/"> <strong className="underline">@NFHustle</strong></a>
             </div>
             <div className="text-center text-white text-sm pb-2">
                 Powered by
-                <a target="_blank" rel="noreferrer" className="text-black" href="https://twitter.com/SecretSpaceSoc1/"> <strong>Secret Space Society</strong></a>
+                <a target="_blank" rel="noreferrer" className="text-yellow" href="https://twitter.com/SecretSpaceSoc1/"> <strong>Secret Space Society</strong></a>
             </div>
         </footer>
     );
