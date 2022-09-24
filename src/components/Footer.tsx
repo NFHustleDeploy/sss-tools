@@ -32,6 +32,10 @@ const Footer = () => {
                 Powered by
                 <a target="_blank" rel="noreferrer" className="text-yellow" href="https://twitter.com/TombstonedApes"> <strong>Tombstoned APE DAO</strong></a>
             </div>
+            <div className="text-center text-white text-sm pb-2">
+                Coded by
+                <a target="_blank" rel="noreferrer" className="text-yellow" href="https://twitter.com/laloutre"> <strong>@laloutre</strong></a>
+            </div>
         </footer>
     );
 }
