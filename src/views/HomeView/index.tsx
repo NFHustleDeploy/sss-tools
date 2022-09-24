@@ -26,7 +26,7 @@ export const HomeView: FC = ({ }) => {
           <div className="flex-1 px-2">
             <div className="text-sm breadcrumbs">
               <ul className="text-xs sm:text-xl">
-                <li><img src="https://i.imgur.com/G9DcBaC.png" alt="image" /></li>
+                <li><img src="https://i.imgur.com/G9DcBaC.png" width="200" height="200" alt="image" /></li>
                 <li>
                   <Link href="/">
                     <a>APEDAO SOLANA TOOLS</a>
