@@ -52,7 +52,7 @@ export const BurnSPLView: FC = ({ }) => {
               <ul className="text-xs sm:text-xl">
                 <li>
                   <Link href="/">
-                    <a>SECRET SPACE SOCIETY TOOLS</a>
+                    <a>APEDAO TOOLS</a>
                   </Link>
                 </li>
               </ul>
