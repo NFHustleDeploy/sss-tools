@@ -51,8 +51,8 @@ export const HomeView: FC = ({ }) => {
                 <p className="mb-2">
                 Ape Dao Society
                 <br />
-                First Tombstoned dao Based on continuing the vibes of community Idealism that the Tombstoned high society has worked to built
-The First agenda the dao worked towards was minting a y00t together, Through this success the ape Dao discord was born and our numbers grew!
+                First Tombstoned DAO Based on continuing the vibes of community Idealism that the Tombstoned high society has worked to built
+The First agenda the DAO worked towards was minting a y00t together, Through this success the ape Dao discord was born and our numbers grew!
 A total of 282 apes roam the Graveyard, Will you join? 
                 <br />
                 <em>Twitter:</em><a href="https://twitter.com/TombstonedApes">@TombstonedApes</a>
