@@ -49,11 +49,11 @@ export const HomeView: FC = ({ }) => {
                   Welcome Apes! <SolanaLogo />
                 </h1>
                 <p className="mb-2">
-                Welcome to Solana Tools where you can access amazing tools to help you in the Solana Ecosystem. Powered by Secret Space Society
+                Ape Dao Society
+                <br />
+                First Tombstoned DAO Based on continuing the vibes of community Idealism that the Tombstoned high society has worked to built 
                 <br />
                 <em>Twitter:</em><a href="https://twitter.com/TombstonedApes">@TombstonedApes</a>
-                <br />
-                <em>Sub DAO of:</em><a href="https://twitter.com/TombStonedHS">Tombstoned High Society</a>
                 </p>
               </div>
             </div>
