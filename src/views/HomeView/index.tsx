@@ -53,7 +53,7 @@ export const HomeView: FC = ({ }) => {
                 <br />
                 <em>Twitter:</em><a href="https://twitter.com/TombstonedApes">@TombstonedApes</a>
                 <br />
-                <em>Sub DAO of:</em><a href="https://twitter.com/TombStonedHS">Tomstoned High Society</a>
+                <em>Sub DAO of:</em><a href="https://twitter.com/TombStonedHS">Tombstoned High Society</a>
                 </p>
               </div>
             </div>
