@@ -47,7 +47,7 @@ const Footer = () => {
             </div>
             <div className="text-center text-white text-sm pb-2">
                 Powered by
-                <a target="_blank" rel="noreferrer" className="text-yellow" href="https://twitter.com/SecretSpaceSoc1/"> <strong>Secret Space Society</strong></a>
+                <a target="_blank" rel="noreferrer" className="text-yellow" href="https://twitter.com/TombstonedApes"> <strong>Tombstoned APE DAO</strong></a>
             </div>
         </footer>
     );

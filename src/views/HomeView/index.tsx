@@ -26,9 +26,10 @@ export const HomeView: FC = ({ }) => {
           <div className="flex-1 px-2">
             <div className="text-sm breadcrumbs">
               <ul className="text-xs sm:text-xl">
+                <li><img src="https://i.imgur.com/G9DcBaC.png" alt="image" /></li>
                 <li>
                   <Link href="/">
-                    <a>SECRET SPACE SOCIETY TOOLS</a>
+                    <a>APEDAO SOLANA TOOLS</a>
                   </Link>
                 </li>
               </ul>
@@ -45,14 +46,14 @@ export const HomeView: FC = ({ }) => {
             <div className="text-center hero-content">
               <div className="max-w-lg">
                 <h1 className="mb-5 text-5xl font-bold">
-                  Hello Nauts! <SolanaLogo />
+                  Welcome Apes! <SolanaLogo />
                 </h1>
                 <p className="mb-2">
                 Welcome to Solana Tools where you can access amazing tools to help you in the Solana Ecosystem. Powered by Secret Space Society
                 <br />
-                <em>Twitter:</em><a href="http://https://twitter.com/SecretSpaceSoc1">@SecretSpaceSoc1</a>
+                <em>Twitter:</em><a href="https://twitter.com/TombstonedApes">@TombstonedApes</a>
                 <br />
-                <em>Discord:</em><a href="http://https://t.co/JMwZfJirNe">Secret Space Society</a>
+                <em>Sub DAO of:</em><a href="https://twitter.com/TombStonedHS">Tomstoned High Society</a>
                 </p>
               </div>
             </div>

@@ -7,7 +7,7 @@ class MyDocument extends Document {
         <Head>
           <meta
             name="description"
-            content="SSS TOOLS to help you in the solana ecosystem"
+            content="APEDAO TOOLS to help you in the solana ecosystem"
           />
           <link rel="icon" href="/favicon.ico" />
 
